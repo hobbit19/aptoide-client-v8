@@ -49,9 +49,9 @@
           android:id="@+id/social_number_of_followers_text"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
-          android:drawableLeft="@drawable/user_shape"
+          android:drawableLeft="@drawable/ic_user_shape"
           android:drawablePadding="4dp"
-          android:drawableStart="@drawable/user_shape"
+          android:drawableStart="@drawable/ic_user_shape"
           android:textSize="10sp"
           tools:text="1M"
           />
@@ -62,9 +62,9 @@
           android:layout_height="wrap_content"
           android:layout_marginLeft="10dp"
           android:layout_marginStart="10dp"
-          android:drawableLeft="@drawable/number_of_apps"
+          android:drawableLeft="@drawable/ic_number_of_apps"
           android:drawablePadding="4dp"
-          android:drawableStart="@drawable/number_of_apps"
+          android:drawableStart="@drawable/ic_number_of_apps"
           android:textSize="10sp"
           tools:text="2352"
           />
